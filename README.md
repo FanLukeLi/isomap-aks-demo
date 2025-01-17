@@ -4,4 +4,5 @@ Using Jupyter notebook, geopandas and folium, I created these maps
 >>> Isochrones map from 6 Garda Stations located in the 40 electoral divisions with highest population density in Dublin, Ireland
 >>> Isochrones map from 4 metro stations located in the 30 census tracts with highest population density in Washington DC, US
 >>> Isochrones map from 6 rail stations located in the 2 SA2 (Statistical Area 2) areas with highest rail station count in Wellington, New Zealand -- well, these rail stations are not distributed in the most populated areas :)
+
 Since the algorithm is a private product and there's a continuous cost on Azure, I quickly deleted the service. So the API's URL in the code is not effective. 
